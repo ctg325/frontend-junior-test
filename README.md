@@ -24,7 +24,7 @@ Criar uma página HOME de um e-commerce de vestuário de Luxo, em HTML, usando o
 # Requisitos da Entrega
 
 * Você deverá fazer um **fork** deste repositório. O novo repositório deverá ser público.
-* A página home deverá ser criado no arquivo **index.html**, fique à vontade para criar outras pastas para imagens, scripts, etc...
+* A página home deverá ser criada no arquivo **index.html**, fique à vontade para criar outras pastas para imagens, scripts, etc...
 * Você deverá descrever a sua estratégia de solução da tarefa neste mesmo arquivo **README.md**, comentando por que escolheu determinado formato de exposição, em que sites se baseou visualmente e qualquer outro comentário que agregue. O espaço para descrição da solução está no final do arquivo.
 
 # Prazo
