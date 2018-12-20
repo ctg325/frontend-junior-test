@@ -29,7 +29,7 @@ Criar uma página HOME de um e-commerce de vestuário de Luxo, em HTML, usando o
 
 # Prazo
 
-As entregas serão avaliadas sem falta no dia 21/12 às 15:00
+O prazo de entrega foi informado no e-mail de convite.
 
 # Espaço para descrever a solução
 
